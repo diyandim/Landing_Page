@@ -78,7 +78,38 @@ a {
 }
 
 img{
-    max-width: 450px; /* Adjust to your design */
-    height: auto;
+    width: 480px; /* Adjust to your design */
+    height: 200px;
     margin-right: 20px;
+}
+
+
+h2{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-top: 30px;
+}
+
+.info p{
+    max-width: 150px;
+    font-weight: 200;
+}
+
+.box{
+    width: 140px;
+    height: 140px;
+    background-color: transparent;
+    border: 3px solid #3882F6;
+    border-radius: 10px;
 }
