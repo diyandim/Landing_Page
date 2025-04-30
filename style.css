@@ -180,3 +180,12 @@ h2{
     padding: 8px 18px;
     margin-right: 120px;
 }
+
+footer{
+    background-color: #1F2937;
+    text-align: center;
+    color: #E5E7EB;
+    margin: 0;
+    padding: 35px;
+    font-size: 24px;
+}
